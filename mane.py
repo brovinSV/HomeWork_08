@@ -7,4 +7,6 @@ def mane_function():
     user_answer = int(input("Your answer: "))
     
 def test_function():
-    pass    
+    num3 = random.randint(25, 50)
+    num4 = random.randint(1, 25)
+    
