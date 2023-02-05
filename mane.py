@@ -6,3 +6,5 @@ def mane_function():
     print(num1, " + ", num2, " = ")
     user_answer = int(input("Your answer: "))
     
+def test_function():
+    pass    
